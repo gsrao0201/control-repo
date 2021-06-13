@@ -18,20 +18,20 @@ forge 'https://forge.puppet.com'
 #
 mod 'basic',
 :git => 'git@github.com:gsrao0201/puppet-base.git',
-:branch => 'prod'
+:branch => 'dev'
 
 mod 'vsftpd',
 :git => 'git@github.com:gsrao0201/puppet-vsftpd.git',
-:branch => 'prod'
+:branch => 'dev'
 
 mod 'apache',
 :git => 'git@github.com:gsrao0201/puppet-apache.git',
-:branch => 'prod'
+:branch => 'dev'
 
 mod 'java',
 :git => 'git@github.com:gsrao0201/puppet-java.git',
-:branch => 'prod'
+:branch => 'dev'
 
 mod 'mysql',
 :git => 'git@github.com:gsrao0201/puppet-mysql.git',
-:branch => 'prod'
+:branch => 'dev'
