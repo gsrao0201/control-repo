@@ -19,3 +19,19 @@ forge 'https://forge.puppet.com'
 mod 'basic',
 :git => 'git@github.com:gsrao0201/pupet-base.git',
 :branch => 'prod'
+
+mod 'vsftpd',
+:git => 'git@github.com:gsrao0201/pupet-vsftpd.git',
+:branch => 'prod'
+
+mod 'apache',
+:git => 'git@github.com:gsrao0201/pupet-apache.git',
+:branch => 'prod'
+
+mod 'java',
+:git => 'git@github.com:gsrao0201/pupet-java.git',
+:branch => 'prod'
+
+mod 'mysql',
+:git => 'git@github.com:gsrao0201/pupet-mysql.git',
+:branch => 'prod'
