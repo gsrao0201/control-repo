@@ -1,8 +1,8 @@
 node 'servera.nodex.example.com' {
-	include mysql
-        include vsftpd
+#	include mysql
+#       include vsftpd
 	include basic
-	include apache
+#	include apache
 	basic::useradd { "ramesh":
 		pv_username => 'ramesh',
                 }
