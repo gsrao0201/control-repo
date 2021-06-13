@@ -18,4 +18,4 @@ forge 'https://forge.puppet.com'
 #
 mod 'basic',
 :git => 'git@github.com:gsrao0201/pupet-base.git',
-:ref => 'main'
+:branch => 'prod'
