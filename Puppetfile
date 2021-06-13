@@ -17,21 +17,21 @@ forge 'https://forge.puppet.com'
 #  branch: 'docs_experiment'
 #
 mod 'basic',
-:git => 'git@github.com:gsrao0201/pupet-base.git',
+:git => 'git@github.com:gsrao0201/puppet-base.git',
 :branch => 'prod'
 
 mod 'vsftpd',
-:git => 'git@github.com:gsrao0201/pupet-vsftpd.git',
+:git => 'git@github.com:gsrao0201/puppet-vsftpd.git',
 :branch => 'prod'
 
 mod 'apache',
-:git => 'git@github.com:gsrao0201/pupet-apache.git',
+:git => 'git@github.com:gsrao0201/puppet-apache.git',
 :branch => 'prod'
 
 mod 'java',
-:git => 'git@github.com:gsrao0201/pupet-java.git',
+:git => 'git@github.com:gsrao0201/puppet-java.git',
 :branch => 'prod'
 
 mod 'mysql',
-:git => 'git@github.com:gsrao0201/pupet-mysql.git',
+:git => 'git@github.com:gsrao0201/puppet-mysql.git',
 :branch => 'prod'
