@@ -17,4 +17,5 @@ forge 'https://forge.puppet.com'
 #  branch: 'docs_experiment'
 #
 mod 'basic',
-:git => 'git@github.com:gsrao0201/pupet-base.git'
+:git => 'git@github.com:gsrao0201/pupet-base.git',
+:ref => 'main'
